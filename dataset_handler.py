@@ -21,5 +21,5 @@ class CharacterDataset(Dataset):
 
         img = io.imread(imgPath)
         label = self.labels.iloc[idx, 0]
-        sample = {'image': image, 'label': label}
+        sample = {'image': img, 'label': label}
         return sample
