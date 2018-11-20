@@ -1,0 +1,39 @@
+Pretrained Squeezenet
+Acc: 0.853211
+Time: 26m 16s
+
+Untrained Squeezenet
+Acc: 0.201835
+Time: 75m 22s
+
+Pretrained Alexnet
+Acc: 0.816514
+Time: 19m 33s
+
+Untrained Alexnet
+Acc: 0.293578
+Time: 51m 35s
+
+Pretrained Resnet
+Acc: 0.825688
+Time: 56m 14s
+
+Untrained Resnet
+Acc:
+Time:
+
+Pretrained Densenet
+Acc:
+Time:
+
+Untrained Densenet
+Acc:
+Time:
+
+Pretrained Vgg
+Acc:
+Time:
+
+Untrained Vgg
+Acc:
+Time:
