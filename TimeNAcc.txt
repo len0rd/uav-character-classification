@@ -19,20 +19,20 @@ Acc: 0.825688
 Time: 56m 14s
 
 Untrained Resnet
-Acc:
-Time:
+Acc: 0.642202
+Time: 130m 35s
 
 Pretrained Densenet
-Acc:
-Time:
+Acc: 0.761468
+Time: 128m 6s
 
 Untrained Densenet
 Acc:
 Time:
 
 Pretrained Vgg
-Acc:
-Time:
+Acc: 0.7523
+Time: 160m
 
 Untrained Vgg
 Acc:
