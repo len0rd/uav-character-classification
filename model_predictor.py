@@ -36,5 +36,7 @@ print('Loaded image!')
 with torch.set_grad_enabled(False):
     outputs = model(loadedImg)
 
+    print(outputs)
+
     _, preds = torch.max(outputs, 1)
     print('Prediction == {}'.format(alphabet[preds[0]]))
