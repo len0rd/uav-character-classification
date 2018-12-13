@@ -2,3 +2,8 @@
 .vscode/
 dataset/
 *.csv
+*.fls
+*.fdb_latexmk
+*.aux
+*.log
+*.synctex*
